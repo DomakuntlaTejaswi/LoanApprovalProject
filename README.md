@@ -44,14 +44,4 @@ This is a simple machine learning web application built using **Python** and **S
 
 ## 🚀 Live Demo
 
-🔗 [Click here to open the app](https://your-username-loan-approval-app.streamlit.app/) *(Replace with your actual link)*
-
----
-
-## 🖥️ Run the App Locally
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/loan-approval-app.git
-cd loan-approval-app
+🔗 [Click here to open the app](https://your-username-loan-approval-app.streamlit.app/) *
